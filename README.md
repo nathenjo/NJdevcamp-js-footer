@@ -5,7 +5,7 @@
 Install with the command:
 
 ```
-npm install --save NJ-devcamp-js-footer
+npm install --save njdevcamp-js-footer
 ```
 
 Add to a Javascript project with the following code:
